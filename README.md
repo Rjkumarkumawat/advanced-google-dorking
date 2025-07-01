@@ -89,4 +89,4 @@ Document your findings and share them with me!
 ---
 
 ## 💬 About the Author  
-**Rajkumar Kumawat** is a cybersecurity enthusiast passionate about ethical hacking and open-source intelligence. Connect with me on [LinkedIn](https://www.linkedin.com/in/rajkumar-kumawat-66072b199/) *(add your real LinkedIn link)*.  
+**Rajkumar Kumawat** is a cybersecurity enthusiast passionate about ethical hacking and open-source intelligence. Connect with me on [LinkedIn](https://www.linkedin.com/in/rajkumar-kumawat-66072b199/).
