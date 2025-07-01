@@ -75,7 +75,7 @@ As a security professional, I recommend:
 ## 📚 Resources & Tools  
 - [Google Hacking Database (GHDB)](https://www.exploit-db.com/google-hacking-database)  
 - [Foca.sh](https://fofa.so) - Advanced search engine  
-- [Raj's GitHub](https://github.com/Rjkumarkumawat/) *(Add your real GitHub link)*  
+- [Raj's GitHub](https://github.com/Rjkumarkumawat/) 
 
 ---
 
